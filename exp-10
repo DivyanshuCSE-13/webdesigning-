@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="5" cellspacing="10" cellpadding="20">
+        <tr>
+            <th >name</th>
+            <th colspan="2"> roll no.</th>
+            <th >class</th>
+        </tr>
+        <tr>
+           <td rowspan="4">Ram</td>
+           <td>2025</td>
+           <td>17</td> 
+        </tr>
+        <tr>
+            <td>Aadesh</td>
+            <td>2026</td>
+            <td>11</td>
+        </tr>
+
+    </table>
+</body>
+</html>
